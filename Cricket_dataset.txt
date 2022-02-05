@@ -1,0 +1,30 @@
+Date	Player_name	Nationality	Rating	Best_rating	Previous_Ranking	Type	Format
+01-01-2016	AB de Villiers	SA	900.0	902.0	1.0	Batting	ODI
+01-01-2016	Virat Kohli	IND	804.0	911.0	2.0	BATTING	ODI
+01-01-2016	Kane Williamson	NZ	781.0	799.0	3.0	Batting	ODI
+01-01-2016	Hashim Amla	SA	776.0	901.0	4.0	BATTING	ODI
+01-01-2016	Tillekeratne Dilshan	SL	771.0	802.0	5.0	Batting	ODI
+01-01-2016	MS Dhoni	IND	741.0	836.0	6.0	Batting	ODI
+01-01-2016	Shikhar Dhawan	IND	730.0	813.0	7.0	Batting	ODI
+01-01-2016	Glenn Maxwell	AUS	717.0	735.0	9.0	BATTING	ODI
+01-01-2016	Ross Taylor	NZ	716.0	841.0	8.0	Batting	ODI
+01-01-2016	Quinton de Kock	NaN	715.0	813.0	11.0	Batting	ODI
+01-01-2016	Francois du Plessis	SA	715.0	820.0	12.0	Batting	ODI
+01-01-2016	Martin Guptill	NaN	NaN	NaN	NaN	NaN	NaN
+01-01-2016	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+01-01-2016	Aaron Finch	AUS	696.0	NaN	14.0	Batting	NaN
+01-01-2016	George Bailey	NaN	NaN	NaN	NaN	NaN	NaN
+01-01-2016	Joe Root	ENG	675.0	NaN	16.0	Batting	NaN
+01-01-2016	Jos Buttler	ENG	662.0	741.0	17.0	Batting	NaN
+01-01-2016	Soumya Sarkar	BAN	661.0	671.0	18.0	Batting	NaN
+01-01-2016	Mushfiqur Rahim	BAN	NaN	723.0	19.0	Batting	ODI
+01-01-2016	Steve Smith	AUS	657.0	752.0	20.0	Batting	ODI
+01-01-2016	Eoin Morgan	ENG	643.0	720.0	21.0	Batting	ODI
+01-01-2016	David Warner	AUS	638.0	NaN	22.0	Batting	ODI
+01-01-2016	Angelo Mathews	SL	627.0	707.0	23.0	Batting	ODI
+01-01-2016	Suresh Raina	IND	625.0	669.0	24.0	Batting	ODI
+01-01-2016	Mohammad Hafeez	PAK	620.0	665.0	25.0	NaN	ODI
+01-01-2016	Brendon McCullum	NZ	613.0	685.0	26.0	Batting	ODI
+01-01-2016	Tamim Iqbal	BAN	611.0	737.0	27.0	Batting	NaN
+01-01-2016	Ajinkya Rahane	IND	NaN	633.0	28.0	Batting	ODI
+01-01-2016	James Faulkner	AUS	599.0	628.0	29.0	Batting	ODI
